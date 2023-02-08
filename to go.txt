@@ -1,0 +1,15 @@
+JWT Authentication
+useReducer
+FlexBox
+customHooks
+routerDOM
+
+redux
+
+videos on interviews--- doing
+* call apply and bind
+* async and await/Promise
+* CORS
+* Bubling annd capturing
+* Virtual DoM
+* class component lifecycle
